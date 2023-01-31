@@ -1,0 +1,6 @@
+void main()
+{
+	int a,b=1;
+	a=5*b;
+	print("Hello");
+}
